@@ -1,0 +1,9 @@
+#This is a comment
+#python ignores comments
+#comments are used to explain the code
+#the best programers comment all their code
+#the worst programmers dont comment at all
+
+#example
+name = "dave" #this is a variable called name
+print(name) #this displays whatever in name
