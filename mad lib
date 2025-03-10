@@ -1,0 +1,6 @@
+name = input('enter a name>>>')
+food = input('enter a food>>>')
+footballteam = input('enter a football team>>>')
+timeframe = input ('enter a time frame(from the past)>>>')
+print('here is your mad lib')
+print('So.',timeframe,', I went with my friend',name,'to watch',footballteam,'play and we also went to eat',food,'afterwards and it was delicious!')
