@@ -1,0 +1,9 @@
+name = input("enter your name>>>")
+print("hello", name)
+print('what is your favourite colour?')
+FavouriteColour = input('enter your favourite colour>>>')
+print('same! I love the colour', FavouriteColour)
+print('what is your favourite football team?') 
+footballTeam = input('enter your favourite football team>>>')
+print('Nice! I support manchester United')
+    
