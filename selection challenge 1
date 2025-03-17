@@ -1,0 +1,9 @@
+#Selection challenge 01 (GCSECS.com)
+#Fix the lines of code below
+#Check for correct indentation
+#When fixed, the code should display…
+#... The sky is blue today
+
+skyColour = "blue"
+if skyColour == "blue":
+  print("The sky is blue today")
