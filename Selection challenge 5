@@ -1,0 +1,15 @@
+#Selection challenge 05 (GCSECS.com)
+#Fix any syntax errors
+#Syntax error means missing : or ) etc
+#Fix any indentation errors
+#Put code in correct order
+#The code is for a taxi/coach company
+
+passengers= int(input("How many passengers?"))
+if passengers <=4:
+    print("send coach")
+elif passengers >4 and passengers <17:
+  print("send 16-seater")
+else:
+  print("send 4-seater car")
+
